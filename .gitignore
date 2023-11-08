@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Build files
+dist/
+build/
+tmp/
+.cache/
+public/assets/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Visual Studio Code specific files and directories
+.vscode/
+*.vscode/
+.vscodeignore
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
